@@ -8,7 +8,7 @@ I'm currently learning Rust, VHDL and MATLAB.
 
 My resume is available [here](https://github.com/fufexan/resume).
 
-You can reach me on Discord `fufexan#1006`, [Matrix](https://matrix.to/#/@fufexan:matrix.org), or [email](mailto:fufexan@proton.me).
+You can reach me on Discord `@fufexan`, [Matrix](https://matrix.to/#/@fufexan:matrix.org), or [email](mailto:mihai@fufexan.net).
 
 ### GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
