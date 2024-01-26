@@ -1,12 +1,8 @@
 ### Hi there
 
-I'm Mihai, a BSc student at TUCN, studying Computer Engineering.
+I'm Mihai, a B.Sc. student at TUCN, studying Electronics and Telecommunications.
 
-My interests include Nix, Functional Programming, Linux and similar topics.
-
-I'm currently learning Rust, VHDL and MATLAB.
-
-My resume is available [here](https://github.com/fufexan/resume).
+My resume is available [here](https://github.com/fufexan/cv).
 
 You can reach me on Discord `@fufexan`, [Matrix](https://matrix.to/#/@fufexan:matrix.org), or [email](mailto:mihai@fufexan.net).
 
