@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm Mihai, a B.Sc. student at TUCN, studying Electronics and Telecommunications.
+I'm Mihai, a B.Eng. student at TUCN, studying Electronics, Telecommunications and Information Technology.
 
 My resume is available [here](https://github.com/fufexan/cv).
 
